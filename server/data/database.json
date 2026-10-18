@@ -1,0 +1,1260 @@
+{
+  "users": [
+    {
+      "id": "u-1792322391057",
+      "name": "supp",
+      "rollNo": "233",
+      "email": "supp@pict.edu",
+      "passwordHash": "$2b$10$tq1ytsme2muBnePHznmCVO3zSdNTFMA1MgkQYvbKt4WPRbrsEKXqu",
+      "branch": "Artificial Intelligence & Data Science",
+      "year": "3rd Year",
+      "role": "senior",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "bio": "3rd Year | Senior Student Mentor & Scholar @ PICT",
+      "badges": [
+        "Senior Mentor",
+        "3rd Year Senior"
+      ],
+      "reputation": 100,
+      "batchStartYear": 2023,
+      "batchEndYear": 2027,
+      "yearOfStudy": 3,
+      "studentLevel": "ThirdYear",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.95,
+      "idCardImageRef": "ec10979d-6663-4a55-921c-344e56a6a123.jpeg",
+      "verifiedAt": "2026-10-18T11:20:09.898Z"
+    },
+    {
+      "id": "u-1792322124680",
+      "name": "sup",
+      "rollNo": "23",
+      "email": "sup@pict.edu",
+      "passwordHash": "$2b$10$2h96w3TmLiq2I7s0y7kpFuJIuFfObRkTvI8i7ZM2RLFla1tpFfk0K",
+      "branch": "Artificial Intelligence & Data Science",
+      "year": "2nd Year",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "2nd Year | PICT SkillBridge Scholar",
+      "badges": [
+        "Sophomore"
+      ],
+      "reputation": 25,
+      "batchStartYear": 2024,
+      "batchEndYear": 2028,
+      "yearOfStudy": 2,
+      "studentLevel": "SecondYear",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.95,
+      "idCardImageRef": "0589762c-8b8b-4063-9bb3-0dcf1cb00525.jpeg",
+      "verifiedAt": "2026-10-18T11:15:44.826Z"
+    },
+    {
+      "id": "u-1792321104543",
+      "name": "mann",
+      "rollNo": "300",
+      "email": "mann@pict.edu",
+      "passwordHash": "$2b$10$1HZsjGKdRJzJ/rH/yaXw5uE0QBGRjjoEPPrNahwz4S9XAmrr/rMFy",
+      "branch": "Information Technology",
+      "year": "1st Year (Fresher)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "1st Year (Fresher) | PICT SkillBridge Scholar",
+      "badges": [
+        "Fresher"
+      ],
+      "reputation": 25,
+      "yearOfStudy": 1,
+      "studentLevel": "Fresher",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "2fb2daf6-6591-4fed-8d7b-6acfa55b3139.jpeg",
+      "verifiedAt": "2026-10-18T10:59:27.633Z"
+    },
+    {
+      "id": "u-1792320805817",
+      "name": "man",
+      "rollNo": "30",
+      "email": "man@pict.edu",
+      "passwordHash": "$2b$10$8hOKvdzUMG3B1pXTPL6QLuO20I6Lw0nRDLOURTFkrf0TXhRL07hre",
+      "branch": "Information Technology",
+      "year": "1st Year (Fresher)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "1st Year (Fresher) | PICT SkillBridge Scholar",
+      "badges": [
+        "Fresher"
+      ],
+      "reputation": 25,
+      "batchStartYear": 2025,
+      "batchEndYear": 2029,
+      "yearOfStudy": 1,
+      "studentLevel": "Fresher",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.95,
+      "idCardImageRef": "454cacbe-b71f-420a-9995-c960742399b8.jpeg",
+      "verifiedAt": "2026-10-18T10:53:56.841Z"
+    },
+    {
+      "id": "u-1792316885437",
+      "name": "ok",
+      "rollNo": "22230",
+      "email": "nikhil@pict.edu",
+      "passwordHash": "$2b$10$/pDmv6z4bw/sPqP752fJAeDOJJcJPCvgyrVDOXVy.JcnCp9oJkin6",
+      "branch": "Information Technology",
+      "year": "Passed Out Student (Alumni)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Passed Out Student (Alumni) | PICT SkillBridge Scholar [Requested Level: Alumni - senor]",
+      "badges": [
+        "Passed Out Alumni"
+      ],
+      "reputation": 150,
+      "batchStartYear": 2022,
+      "batchEndYear": 2026,
+      "yearOfStudy": 5,
+      "studentLevel": "Alumni",
+      "verificationStatus": "Pending",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "7f9e6fec-02ed-4ad6-b224-3f62daa3a86e.jpeg"
+    },
+    {
+      "id": "u-1792316792338",
+      "name": "ok",
+      "rollNo": "2222",
+      "email": "okk@pict.edu",
+      "passwordHash": "$2b$10$T6dKYdkucfL7AvkXB2qbO.grthCQLP2N3QC9op0I0dN49g/HnVU2W",
+      "branch": "Electronics & Telecommunication",
+      "year": "Passed Out Student (Alumni)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Passed Out Student (Alumni) | PICT SkillBridge Scholar",
+      "badges": [
+        "Passed Out Alumni"
+      ],
+      "reputation": 150,
+      "batchStartYear": 2022,
+      "batchEndYear": 2026,
+      "yearOfStudy": 5,
+      "studentLevel": "Alumni",
+      "verificationStatus": "Pending",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "e2f4bde4-486a-4178-8180-d465dc9d9c88.jpeg"
+    },
+    {
+      "id": "u-1792316641741",
+      "name": "ok",
+      "rollNo": "22222",
+      "email": "ok@pict.edu",
+      "passwordHash": "$2b$10$spfoCzDpT2keKirzqMsZTO9BkTKyzi64.PI8IE3bZQ.l7x5QI986G",
+      "branch": "Electronics & Telecommunication",
+      "year": "Passed Out Student (Alumni)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Passed Out Student (Alumni) | PICT SkillBridge Scholar",
+      "badges": [
+        "Passed Out Alumni"
+      ],
+      "reputation": 150,
+      "batchStartYear": 2022,
+      "batchEndYear": 2026,
+      "yearOfStudy": 5,
+      "studentLevel": "Alumni",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "f9178b6d-ca11-4aae-bf2e-0d3675e9b8b0.jpeg",
+      "verifiedAt": "2026-10-18T09:44:42.470Z"
+    },
+    {
+      "id": "u-1792316384948",
+      "name": "sam",
+      "email": "sam@pict.edu",
+      "passwordHash": "$2b$10$D6RdLiLFnZT8eQyXHfvc7OpO0CMDQt2asPkgq1p3VM9zobjKXCuPO",
+      "branch": "Information Technology",
+      "year": "Club Admin (embeded)",
+      "role": "club_admin",
+      "clubName": "embeded",
+      "phone": "1234567890",
+      "isApproved": true,
+      "adminStatus": "Active",
+      "verificationStatus": "Verified",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "bio": "Club Lead / Admin representative for embeded",
+      "badges": [
+        "Club Lead",
+        "Campus Leader"
+      ],
+      "reputation": 50,
+      "verifiedAt": "2026-10-18T09:41:41.647Z",
+      "studentLevel": "Fresher"
+    },
+    {
+      "id": "u-1792314203254",
+      "name": "omkar",
+      "rollNo": "22232",
+      "email": "omkar@pict.edu",
+      "passwordHash": "$2b$10$jSr1N68UgVoeW355Hvn46eo1kYZEzJppl.j4kZUka3i/iW3tTKcby",
+      "branch": "Computer Science & Engg",
+      "year": "Passed Out Student (Alumni)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Passed Out Student (Alumni) | PICT SkillBridge Scholar [Requested Level: SecondYear]",
+      "badges": [
+        "Passed Out Alumni"
+      ],
+      "reputation": 150,
+      "batchStartYear": 2022,
+      "batchEndYear": 2026,
+      "yearOfStudy": 5,
+      "studentLevel": "Alumni",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "f516d71a-f4d1-4d9f-a9f7-20572ac12322.jpeg",
+      "verifiedAt": "2026-10-18T09:07:02.893Z"
+    },
+    {
+      "id": "u-1792313088131",
+      "name": "Nikhil Patil",
+      "rollNo": "24IT099",
+      "email": "nikhil.patil@pict.edu",
+      "passwordHash": "$2b$10$zkzxIpJPx9J/Z9OLquSW0e7oWlj0uPXkJW6pq1MQwYyRJtz9.Jf06",
+      "branch": "Information Technology",
+      "year": "3rd Year",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "3rd Year | PICT SkillBridge Scholar",
+      "badges": [
+        "3rd Year Senior"
+      ],
+      "reputation": 25,
+      "batchStartYear": 2024,
+      "batchEndYear": 2028,
+      "yearOfStudy": 3,
+      "studentLevel": "ThirdYear",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "b7b4ca7b-13c2-4f6c-b59a-d47a28b71b4e.png",
+      "verifiedAt": "2026-10-18T08:45:11.599Z"
+    },
+    {
+      "id": "u-1792313055167",
+      "name": "Test Club Representative",
+      "email": "lead.test@pict.edu",
+      "passwordHash": "$2b$10$F96qM/vLeAQJIUyUgHMFMu/2Siqsfb31Le8ZP9yHxzLWC.TckKMzm",
+      "branch": "Information Technology",
+      "year": "Club Lead",
+      "role": "club_admin",
+      "clubName": "RoboGeeks PICT",
+      "phone": "9876543210",
+      "isApproved": false,
+      "adminStatus": "Pending",
+      "verificationStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&q=80",
+      "bio": "Club Lead / Admin representative for RoboGeeks PICT",
+      "badges": [
+        "Club Lead",
+        "Campus Leader"
+      ],
+      "reputation": 50
+    },
+    {
+      "id": "u-1792311663818",
+      "name": "Test Student",
+      "rollNo": "24CS999",
+      "email": "test.user@pict.edu",
+      "passwordHash": "$2b$10$kpfZVEgQtmbuZ93w.9ij1OorKwrhCJ8MZv.Bl05TRLLZ/A96cf4Rq",
+      "branch": "Computer Science & Engg",
+      "year": "1st Year (Fresher)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "1st Year (Fresher) | PICT SkillBridge Scholar",
+      "badges": [
+        "Fresher"
+      ],
+      "reputation": 25,
+      "yearOfStudy": 1,
+      "studentLevel": "Fresher",
+      "verificationStatus": "Pending",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "36ae7dc5-e5c0-4261-9a78-ec110a46d411.png"
+    },
+    {
+      "id": "u-1792310456898",
+      "name": "Test Student",
+      "rollNo": "25CS999",
+      "email": "teststudent@pict.edu",
+      "passwordHash": "$2b$10$M8mHoYDBsYV.LCfrOz8YQeJ8KgLfr1Hgf2TSkjzko7GyFNZVaQx72",
+      "branch": "Computer Science & Engg",
+      "year": "1st Year (Fresher)",
+      "role": "student",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "1st Year (Fresher) | PICT SkillBridge Scholar",
+      "badges": [
+        "Fresher"
+      ],
+      "reputation": 25,
+      "yearOfStudy": 1,
+      "studentLevel": "Fresher",
+      "verificationStatus": "Pending",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "08d9dd02-a4c2-4b14-8399-dea52573043f.jpg"
+    },
+    {
+      "id": "club-admin-1792310440923",
+      "name": "New Club President",
+      "email": "newlead@pict.edu",
+      "rollNo": "",
+      "passwordHash": "$2b$12$i.zn1dW9XS8iHhuSpqu2f.j6A6jm690JaZQfcW82Alb4TauNFyD8C",
+      "branch": "Club Administration",
+      "year": "Club Admin",
+      "role": "club_admin",
+      "clubName": "Robotics Guild",
+      "bio": "Club Lead of Robotics Guild at PICT",
+      "badges": [
+        "Club Admin"
+      ],
+      "reputation": 0,
+      "verificationStatus": "Pending",
+      "loginAttempts": 0,
+      "isApproved": false,
+      "adminStatus": "Pending"
+    },
+    {
+      "id": "u-1",
+      "name": "Aarav Sharma",
+      "rollNo": "24CS042",
+      "email": "student@pict.edu",
+      "passwordHash": "$2b$10$6Nnn.qBS/7RxXhlweTeDXOiA5IQh5M6PdgaarSvYCC9UWlVgvGSRy",
+      "branch": "Computer Science & Engg",
+      "year": "1st Year (Fresher)",
+      "role": "student",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Curious fresher diving into Web Dev & DSA. Looking for mentors!",
+      "badges": [
+        "Active Learner",
+        "Problem Solver"
+      ],
+      "reputation": 45,
+      "isApproved": true,
+      "verificationStatus": "Verified"
+    },
+    {
+      "id": "u-2",
+      "name": "Priya Mukherjee (Senior)",
+      "rollNo": "22CS015",
+      "email": "senior@pict.edu",
+      "passwordHash": "$2b$10$6Nnn.qBS/7RxXhlweTeDXOiA5IQh5M6PdgaarSvYCC9UWlVgvGSRy",
+      "branch": "Computer Science & Engg",
+      "year": "3rd Year (Senior)",
+      "role": "senior",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "bio": "Upcoming SWE Intern @ Microsoft | Senior Mentor for DSA & Web Dev | Solved 500+ LeetCode.",
+      "badges": [
+        "Top Mentor",
+        "Verified Senior",
+        "Microsoft SWE Intern"
+      ],
+      "reputation": 420,
+      "isApproved": true,
+      "verificationStatus": "Verified"
+    },
+    {
+      "id": "u-3",
+      "name": "Rohan Deshmukh (Club Lead)",
+      "rollNo": "22IT031",
+      "email": "clublead@pict.edu",
+      "passwordHash": "$2b$10$6Nnn.qBS/7RxXhlweTeDXOiA5IQh5M6PdgaarSvYCC9UWlVgvGSRy",
+      "branch": "Information Technology",
+      "year": "3rd Year",
+      "role": "club_admin",
+      "clubName": "CodeCraft - The Developers Guild",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?auto=format&fit=crop&w=150&q=80",
+      "bio": "President @ CodeCraft Club | Open Source Evangelist | Hackathon Organizer",
+      "badges": [
+        "Club Admin",
+        "Hackathon Lead"
+      ],
+      "reputation": 310,
+      "isApproved": true,
+      "adminStatus": "Active",
+      "verificationStatus": "Verified"
+    },
+    {
+      "id": "u-4",
+      "name": "Dr. K. S. Verma (Dean Academics)",
+      "rollNo": "FAC-001",
+      "email": "admin@pict.edu",
+      "passwordHash": "$2b$10$k/PiuSmvMcbWVyDiroPu/uV76yRZVVWsY/I7QrDc9NyViRbQiDbn6",
+      "branch": "Academic Directorate",
+      "year": "Faculty",
+      "role": "college_admin",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+      "bio": "Head of Academic Affairs and Department Moderator.",
+      "badges": [
+        "Institute Admin",
+        "Faculty"
+      ],
+      "reputation": 999,
+      "isApproved": true,
+      "adminStatus": "Active",
+      "verificationStatus": "Verified"
+    }
+  ],
+  "academicMaterials": [
+    {
+      "id": "mat-1",
+      "title": "Data Structures & Algorithms - Handcrafted Class Notes & Visual Cheatsheets",
+      "branch": "Computer Science & Engg",
+      "semester": 3,
+      "subject": "Data Structures & Algorithms",
+      "type": "notes",
+      "description": "Detailed handwritten and digital notes covering Trees, Graphs, DP, Heaps, and Sorting algorithms with memory diagrams.",
+      "link": "https://drive.google.com/drive/folders/1exampleDSAnotesDriveLink2026",
+      "authorName": "Priya Mukherjee (Senior)",
+      "authorRole": "senior",
+      "authorRollNo": "22CS015",
+      "dateAdded": "2026-08-20",
+      "downloadsCount": 342,
+      "tags": [
+        "DSA",
+        "Trees",
+        "Graphs",
+        "Handwritten Notes",
+        "Sem 3"
+      ]
+    },
+    {
+      "id": "mat-2",
+      "title": "Operating Systems End-Sem PYQs with Model Solutions (2020-2025)",
+      "branch": "Computer Science & Engg",
+      "semester": 4,
+      "subject": "Operating Systems",
+      "type": "pyq",
+      "description": "Solved previous 5 years end-semester examination question papers including Banker's Algorithm and Page Replacement step-by-step.",
+      "link": "https://drive.google.com/drive/folders/1exampleOS_PYQ_DriveLink",
+      "authorName": "Dr. K. S. Verma (Dean Academics)",
+      "authorRole": "admin",
+      "authorRollNo": "FAC-001",
+      "dateAdded": "2026-08-15",
+      "downloadsCount": 512,
+      "tags": [
+        "OS",
+        "PYQs",
+        "Solutions",
+        "Deadlocks",
+        "Sem 4"
+      ]
+    },
+    {
+      "id": "mat-3",
+      "title": "Database Management Systems (DBMS) - Complete Official Syllabus & Drive Repository",
+      "branch": "Information Technology",
+      "semester": 3,
+      "subject": "Database Management Systems",
+      "type": "drive",
+      "description": "Master Google Drive folder containing SQL scripts, ER diagrams, normalization guide, and indexed lecture slides.",
+      "link": "https://drive.google.com/drive/folders/1exampleDBMS_OfficialFolder",
+      "authorName": "Rohan Deshmukh (Club Lead)",
+      "authorRole": "club_admin",
+      "authorRollNo": "22IT031",
+      "dateAdded": "2026-08-10",
+      "downloadsCount": 289,
+      "tags": [
+        "DBMS",
+        "SQL",
+        "Normalization",
+        "Google Drive",
+        "IT"
+      ]
+    },
+    {
+      "id": "mat-4",
+      "title": "Digital Signal Processing (DSP) - MATLAB Lab Manual & Code Samples",
+      "branch": "Electronics & Communication",
+      "semester": 5,
+      "subject": "Digital Signal Processing",
+      "type": "lab",
+      "description": "Verified lab manual with FFT, DFT, and FIR/IIR filter implementation codes and sample output waveforms.",
+      "link": "https://drive.google.com/drive/folders/1exampleDSP_LabManual",
+      "authorName": "Siddharth Rao (Senior)",
+      "authorRole": "senior",
+      "authorRollNo": "22EC019",
+      "dateAdded": "2026-08-25",
+      "downloadsCount": 180,
+      "tags": [
+        "DSP",
+        "MATLAB",
+        "Lab Manual",
+        "ECE",
+        "Sem 5"
+      ]
+    },
+    {
+      "id": "mat-5",
+      "title": "Engineering Mathematics - III (Fourier Series, Laplace & Probability) Solved PDF",
+      "branch": "Common / All Branches",
+      "semester": 3,
+      "subject": "Engineering Mathematics III",
+      "type": "pdf",
+      "description": "Step-by-step worked formulas, standard proofs, and expected mid-sem question sets.",
+      "link": "https://drive.google.com/file/d/1exampleMaths3PDF/view",
+      "authorName": "Dr. K. S. Verma (Dean Academics)",
+      "authorRole": "admin",
+      "authorRollNo": "FAC-001",
+      "dateAdded": "2026-08-01",
+      "downloadsCount": 780,
+      "tags": [
+        "Maths",
+        "Fourier",
+        "Laplace",
+        "PDF",
+        "All Branches"
+      ]
+    },
+    {
+      "id": "mat-6",
+      "title": "Computer Networks - NPTEL Video Lectures Index & Curated Playlist",
+      "branch": "Computer Science & Engg",
+      "semester": 5,
+      "subject": "Computer Networks",
+      "type": "video",
+      "description": "Timestamped video series covering OSI Layers, TCP/IP, Subnetting calculations, and Socket Programming in C.",
+      "link": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx",
+      "authorName": "Priya Mukherjee (Senior)",
+      "authorRole": "senior",
+      "authorRollNo": "22CS015",
+      "dateAdded": "2026-08-28",
+      "downloadsCount": 420,
+      "tags": [
+        "CN",
+        "Networking",
+        "TCP/IP",
+        "Videos",
+        "Sem 5"
+      ]
+    },
+    {
+      "id": "mat-7",
+      "title": "Thermodynamics & Heat Transfer - PYQs & Formula Cheat-sheet",
+      "branch": "Mechanical Engineering",
+      "semester": 3,
+      "subject": "Applied Thermodynamics",
+      "type": "pyq",
+      "description": "Complete collection of steam tables derivation, Rankine cycle questions, and past 6 semesters papers.",
+      "link": "https://drive.google.com/drive/folders/1exampleMechThermoDrive",
+      "authorName": "Anil Kulkarni (Senior)",
+      "authorRole": "senior",
+      "authorRollNo": "22ME044",
+      "dateAdded": "2026-08-18",
+      "downloadsCount": 165,
+      "tags": [
+        "Mechanical",
+        "Thermodynamics",
+        "Rankine Cycle",
+        "PYQ"
+      ]
+    }
+  ],
+  "skillResources": [
+    {
+      "id": "sk-1",
+      "title": "Full Stack Web Development (MERN / Next.js) Zero to Hero Master Roadmap",
+      "category": "Web Dev",
+      "type": "roadmap",
+      "description": "Comprehensive 16-week interactive roadmap: HTML/CSS/JS fundamentals, React 19, Node.js, Express, MongoDB, Tailwind, and full deployment on Vercel/Render.",
+      "link": "https://roadmap.sh/full-stack",
+      "level": "Beginner",
+      "duration": "16 Weeks",
+      "authorName": "Rohan Deshmukh (Club Lead)",
+      "authorRole": "club_admin",
+      "dateAdded": "2026-08-12",
+      "rating": 4.9,
+      "tags": [
+        "React",
+        "Next.js",
+        "Node.js",
+        "Web Dev",
+        "Roadmap"
+      ]
+    },
+    {
+      "id": "sk-2",
+      "title": "Machine Learning & Deep Learning with PyTorch - Fast.ai & Stanford CS229 Curated Notes",
+      "category": "AI & ML",
+      "type": "drive",
+      "description": "Drive repository containing Google Colab notebooks for CNNs, Transformers, LLM fine-tuning with Hugging Face, and computer vision datasets.",
+      "link": "https://drive.google.com/drive/folders/1exampleAIML_Curated_Resources",
+      "level": "Intermediate",
+      "duration": "12 Weeks",
+      "authorName": "Priya Mukherjee (Senior)",
+      "authorRole": "senior",
+      "dateAdded": "2026-08-19",
+      "rating": 4.95,
+      "tags": [
+        "PyTorch",
+        "Transformers",
+        "LLM",
+        "Colab",
+        "AI"
+      ]
+    },
+    {
+      "id": "sk-3",
+      "title": "DevOps & Cloud Engineering Bootcamp - Docker, Kubernetes, CI/CD, AWS Essentials",
+      "category": "Cloud & DevOps",
+      "type": "video",
+      "description": "Hands-on video course with real world production deployment, Docker multi-stage builds, and Kubernetes clusters.",
+      "link": "https://www.youtube.com/watch?v=fqMOX6JJhGo",
+      "level": "Intermediate",
+      "duration": "8 Weeks",
+      "authorName": "Dr. K. S. Verma",
+      "authorRole": "admin",
+      "dateAdded": "2026-08-22",
+      "rating": 4.8,
+      "tags": [
+        "Docker",
+        "K8s",
+        "AWS",
+        "DevOps",
+        "CI/CD"
+      ]
+    },
+    {
+      "id": "sk-4",
+      "title": "Cybersecurity & Ethical Hacking - TryHackMe / HTB Walkthroughs & Notes PDF",
+      "category": "Cybersecurity",
+      "type": "pdf",
+      "description": "A curated 120-page guide covering Linux privilege escalation, Burp Suite, Network penetration testing, and Bug Bounty methodology.",
+      "link": "https://drive.google.com/file/d/1exampleCyberSecGuidePDF/view",
+      "level": "Beginner",
+      "duration": "10 Weeks",
+      "authorName": "Rohan Deshmukh (Club Lead)",
+      "authorRole": "club_admin",
+      "dateAdded": "2026-08-25",
+      "rating": 4.85,
+      "tags": [
+        "Cybersecurity",
+        "Bug Bounty",
+        "Penetration Testing",
+        "Linux"
+      ]
+    },
+    {
+      "id": "sk-5",
+      "title": "Android & Flutter Mobile App Development - 10 Production Ready Apps Source Code",
+      "category": "App Dev",
+      "type": "repo",
+      "description": "GitHub repository with 10 industry-standard mobile applications built with Flutter, Firebase Auth, and Riverpod State Management.",
+      "link": "https://github.com/flutter/samples",
+      "level": "Intermediate",
+      "duration": "6 Weeks",
+      "authorName": "Priya Mukherjee (Senior)",
+      "authorRole": "senior",
+      "dateAdded": "2026-08-27",
+      "rating": 4.75,
+      "tags": [
+        "Flutter",
+        "Mobile",
+        "Firebase",
+        "State Management",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "sk-6",
+      "title": "System Design Primer - Low Level Design (LLD) & High Level Design (HLD) Cheatsheet",
+      "category": "Web Dev",
+      "type": "pdf",
+      "description": "Essential for SDE-2 and campus dream placement rounds: Rate limiters, URL shortener, Kafka queues, caching strategies, and OOP design patterns.",
+      "link": "https://drive.google.com/file/d/1exampleSystemDesignPrimer/view",
+      "level": "Advanced",
+      "duration": "4 Weeks",
+      "authorName": "Priya Mukherjee (Senior)",
+      "authorRole": "senior",
+      "dateAdded": "2026-08-30",
+      "rating": 5,
+      "tags": [
+        "System Design",
+        "HLD",
+        "LLD",
+        "Microservices",
+        "SDE Interview"
+      ]
+    }
+  ],
+  "clubs": [
+    {
+      "id": "club-1792316141594",
+      "name": "f",
+      "category": "Technical",
+      "tagline": "Official Student Guild at PICT",
+      "description": "Active campus club organizing technical workshops and competitive events.",
+      "logo": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=80",
+      "banner": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=1200&q=80",
+      "leadName": "New Club President",
+      "leadRole": "Club Lead / President",
+      "leadEmail": "newlead@pict.edu",
+      "leadPhone": "+91 9876543210",
+      "recruitmentOpen": true,
+      "memberCount": 1,
+      "socialLinks": {
+        "instagram": "#",
+        "linkedin": "#",
+        "github": "#"
+      },
+      "events": []
+    },
+    {
+      "id": "club-1",
+      "name": "CodeCraft Developers Club",
+      "category": "Technical",
+      "tagline": "Building the next generation of open-source architects & competitive coders.",
+      "description": "CodeCraft is the premier tech society of the campus, hosting annual 36-hour hackathons, weekly code sprints, open-source mentorship cohorts, and FAANG tech talks.",
+      "logo": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=200&q=80",
+      "banner": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=1200&q=80",
+      "leadName": "Rohan Deshmukh",
+      "leadRole": "President & Tech Lead",
+      "leadEmail": "president.codecraft@college.edu.in",
+      "leadPhone": "+91 98765 43210",
+      "recruitmentOpen": true,
+      "memberCount": 240,
+      "socialLinks": {
+        "instagram": "https://instagram.com/codecraft_official",
+        "linkedin": "https://linkedin.com/company/codecraft-club",
+        "github": "https://github.com/codecraft-hub",
+        "website": "https://codecraft.college.edu.in"
+      },
+      "events": [
+        {
+          "id": "ev-1",
+          "clubId": "club-1",
+          "title": "HackNova 2026: 36-Hour National Level Hackathon",
+          "date": "2026-09-28",
+          "time": "09:00 AM IST",
+          "venue": "Main Auditorium & CS Labs",
+          "description": "Compete for ₹1,50,000 in cash prizes across Web3, AI for Good, Healthcare, and FinTech domains. Mentored by industry engineers.",
+          "bannerImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=800&q=80",
+          "registrationLink": "https://hacknova2026.devpost.com",
+          "registrationOpen": true,
+          "registeredCount": 312,
+          "tags": [
+            "Hackathon",
+            "Cash Prize",
+            "AI/ML",
+            "Web3"
+          ]
+        },
+        {
+          "id": "ev-2",
+          "clubId": "club-1",
+          "title": "Git & GitHub Hands-on Bootcamp for Freshers",
+          "date": "2026-09-12",
+          "time": "05:30 PM IST",
+          "venue": "CS Seminar Hall 2",
+          "description": "Bring your laptops! Learn version control, branching, pull requests, resolving merge conflicts, and contributing to your first open source repo.",
+          "bannerImage": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?auto=format&fit=crop&w=800&q=80",
+          "registrationOpen": true,
+          "registeredCount": 145,
+          "tags": [
+            "Freshers Special",
+            "Git",
+            "GitHub",
+            "Hands-on"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "club-2",
+      "name": "RoboGeeks & IoT Innovations",
+      "category": "Technical",
+      "tagline": "Designing Autonomous Drones, Combat Bots & Smart IoT Devices.",
+      "description": "RoboGeeks represents the university at national robotics competitions like Robocon and Techfest. We provide access to 3D printers, ROS environments, and Arduino/Raspberry Pi labs.",
+      "logo": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=200&q=80",
+      "banner": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?auto=format&fit=crop&w=1200&q=80",
+      "leadName": "Siddharth Rao",
+      "leadRole": "Club Lead & Hardware Specialist",
+      "leadEmail": "robogeeks@college.edu.in",
+      "leadPhone": "+91 98111 22334",
+      "recruitmentOpen": true,
+      "memberCount": 180,
+      "socialLinks": {
+        "instagram": "https://instagram.com/robogeeks_college",
+        "linkedin": "https://linkedin.com/company/robogeeks"
+      },
+      "events": [
+        {
+          "id": "ev-3",
+          "clubId": "club-2",
+          "title": "RoboWars 2026: 15kg Bot Combat Arena",
+          "date": "2026-10-15",
+          "time": "11:00 AM IST",
+          "venue": "Student Activity Arena",
+          "description": "Witness high-speed pneumatic flippers, spinning disc weapons, and autonomous navigation in our high-tensile safety cage.",
+          "bannerImage": "https://images.unsplash.com/photo-1561557944-6e7860d1a7eb?auto=format&fit=crop&w=800&q=80",
+          "registrationOpen": true,
+          "registeredCount": 88,
+          "tags": [
+            "Robotics",
+            "RoboWars",
+            "Combat Bots",
+            "Prizes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "club-3",
+      "name": "VentureLab (E-Cell)",
+      "category": "Entrepreneurship",
+      "tagline": "From Dorm-Room Ideas to Seed Funded Startups.",
+      "description": "The Entrepreneurship Cell of the college connects budding student founders with angel investors, incubation funds, patent attorneys, and startup accelerators.",
+      "logo": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=200&q=80",
+      "banner": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80",
+      "leadName": "Tanvi Agarwal",
+      "leadRole": "Convener & Incubation Head",
+      "leadEmail": "ecell.lead@college.edu.in",
+      "leadPhone": "+91 97722 33445",
+      "recruitmentOpen": true,
+      "memberCount": 130,
+      "socialLinks": {
+        "linkedin": "https://linkedin.com/company/venturelab-ecell"
+      },
+      "events": [
+        {
+          "id": "ev-4",
+          "clubId": "club-3",
+          "title": "Campus Shark Tank: Pitch & Win ₹5 Lakh Seed Grant",
+          "date": "2026-10-05",
+          "time": "02:00 PM IST",
+          "venue": "Management Auditorium",
+          "description": "Pitch your business MVP to 4 venture capital partners. Top 3 startups receive direct incubation space and AWS credit grants.",
+          "bannerImage": "https://images.unsplash.com/photo-1559136555-9303baea8ebd?auto=format&fit=crop&w=800&q=80",
+          "registrationOpen": true,
+          "registeredCount": 47,
+          "tags": [
+            "Startup",
+            "Shark Tank",
+            "Seed Funding",
+            "Incubation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "club-4",
+      "name": "Sanskriti Cultural & Arts Society",
+      "category": "Cultural",
+      "tagline": "Unleashing campus creativity in music, drama, dance & fine arts.",
+      "description": "Sanskriti brings life to campus life through annual fest celebrations, musical jamming nights, street plays (Nukkad Natak), and photography exhibitions.",
+      "logo": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=200&q=80",
+      "banner": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=1200&q=80",
+      "leadName": "Varun Sen",
+      "leadRole": "Cultural Secretary",
+      "leadEmail": "sanskriti@college.edu.in",
+      "leadPhone": "+91 99887 66554",
+      "recruitmentOpen": false,
+      "memberCount": 310,
+      "socialLinks": {
+        "instagram": "https://instagram.com/sanskriti_fest"
+      },
+      "events": [
+        {
+          "id": "ev-5",
+          "clubId": "club-4",
+          "title": "Acoustic Jam Night & Open Mic under the Stars",
+          "date": "2026-09-18",
+          "time": "06:30 PM IST",
+          "venue": "Open Air Amphitheatre",
+          "description": "An evening of live band performances, standup comedy, beatboxing, and poetry. Free entry for all students.",
+          "bannerImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=800&q=80",
+          "registrationOpen": true,
+          "registeredCount": 420,
+          "tags": [
+            "Music",
+            "Open Mic",
+            "Live Band",
+            "Cultural"
+          ]
+        }
+      ]
+    }
+  ],
+  "clubRegistrations": [],
+  "doubts": [
+    {
+      "id": "d-1",
+      "title": "How does Time Complexity analysis work for Nested Loops with Step Halving (i = i / 2)?",
+      "description": "I am a 1st year student struggling to calculate the Big-O for this loop. Does this run in O(n log n) or O(log n)? Please explain the math breakdown!",
+      "codeSnippet": "// Example loop in C++\nfor (int i = n; i > 0; i /= 2) {\n    for (int j = 0; j < i; j++) {\n        cout << \"*\";\n    }\n}",
+      "branch": "Computer Science & Engg",
+      "subject": "Data Structures & Algorithms",
+      "authorName": "Aarav Sharma",
+      "authorRole": "student",
+      "authorRollNo": "24CS042",
+      "date": "2026-09-01",
+      "tags": [
+        "DSA",
+        "Time Complexity",
+        "Big-O",
+        "Algorithms"
+      ],
+      "upvotes": 14,
+      "solved": true,
+      "replies": [
+        {
+          "id": "rep-1",
+          "authorName": "Priya Mukherjee (Senior)",
+          "authorRole": "senior",
+          "authorRollNo": "22CS015",
+          "content": "Great question Aarav! This actually runs in O(n) total time, not O(n log n)! Here is why: In the 1st iteration of outer loop, inner loop runs n times. In 2nd iteration, n/2 times. In 3rd, n/4 times... Sum = n + n/2 + n/4 + n/8 + ... = n * (1 + 1/2 + 1/4 + ...) which is a geometric progression converging to 2n = O(n)!",
+          "codeSnippet": "// Geometric series summation:\n// Total steps = n ( 1 / (1 - 1/2) ) = 2n = O(n)",
+          "date": "2026-09-01",
+          "isSeniorVerified": true,
+          "upvotes": 19
+        }
+      ]
+    },
+    {
+      "id": "d-2",
+      "title": "Difference between Process vs Thread memory space in Operating Systems exam",
+      "description": "Can someone provide a clean diagrammatic explanation of what is shared between threads in the same process vs independent processes for tomorrow's mid-term?",
+      "branch": "Computer Science & Engg",
+      "subject": "Operating Systems",
+      "authorName": "Kunal Joshi",
+      "authorRole": "student",
+      "authorRollNo": "24CS088",
+      "date": "2026-08-31",
+      "tags": [
+        "OS",
+        "Processes",
+        "Threads",
+        "Memory"
+      ],
+      "upvotes": 9,
+      "solved": true,
+      "replies": [
+        {
+          "id": "rep-2",
+          "authorName": "Priya Mukherjee (Senior)",
+          "authorRole": "senior",
+          "authorRollNo": "22CS015",
+          "content": "Threads within the same process share: 1. Code section (Text), 2. Data section (Global variables), 3. OS Resources (Open files, signals). BUT each thread gets its own private: 1. Program Counter (PC), 2. CPU Register state, 3. Private Call Stack! Processes on the other hand have completely isolated virtual address spaces.",
+          "date": "2026-08-31",
+          "isSeniorVerified": true,
+          "upvotes": 12
+        }
+      ]
+    },
+    {
+      "id": "d-3",
+      "title": "How to configure CORS in Express.js when building React frontend?",
+      "description": "I get \"Access to XMLHttpRequest at localhost:5000 from origin localhost:5173 has been blocked by CORS policy\". How do I resolve this properly for development?",
+      "codeSnippet": "// In my server.js\nconst express = require('express');\nconst app = express();\n\n// What middleware to put here?",
+      "branch": "Information Technology",
+      "subject": "Web Technologies",
+      "authorName": "Neha Patel",
+      "authorRole": "student",
+      "authorRollNo": "24IT019",
+      "date": "2026-08-30",
+      "tags": [
+        "WebDev",
+        "Express",
+        "React",
+        "CORS"
+      ],
+      "upvotes": 7,
+      "solved": false,
+      "replies": [
+        {
+          "id": "rep-3",
+          "authorName": "Rohan Deshmukh (Club Lead)",
+          "authorRole": "club_admin",
+          "authorRollNo": "22IT031",
+          "content": "Install `cors` package via `npm install cors` and configure it before any routes:",
+          "codeSnippet": "const cors = require('cors');\napp.use(cors({\n  origin: 'http://localhost:5173',\n  credentials: true\n}));",
+          "date": "2026-08-30",
+          "isSeniorVerified": true,
+          "upvotes": 8
+        }
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp-1",
+      "name": "Google India",
+      "logo": "https://images.unsplash.com/photo-1573804633927-bfcbcd909acd?auto=format&fit=crop&w=120&q=80",
+      "tier": "Dream (20+ LPA)",
+      "packageLPA": "₹38.5 - 45.0 LPA CTC (Base ₹18.5 LPA + Stocks + Bonus)",
+      "eligibleBranches": [
+        "CSE",
+        "IT",
+        "ECE",
+        "EE"
+      ],
+      "hiringRounds": [
+        "Online Coding Assessment (2 LeetCode Medium-Hard questions, 90 mins)",
+        "Technical Round 1: Data Structures & Dynamic Programming",
+        "Technical Round 2: Graphs, Trees & Algorithmic Optimization",
+        "Technical Round 3: System Design / Problem Solving at scale",
+        "Googleyness & Leadership Behavioral Round"
+      ],
+      "prepRoadmapLink": "https://techdevguide.withgoogle.com/",
+      "driveLink": "https://drive.google.com/drive/folders/1exampleGooglePrepDrive",
+      "overview": "Google looks for deep algorithmic fundamentals, mastery of time/space tradeoffs, clean modular code, and exceptional problem-solving agility.",
+      "importantTopics": [
+        "Dynamic Programming",
+        "Graph Algorithms (Dijkstra, BFS/DFS, Disjoint Set)",
+        "Binary Trees & Tries",
+        "System Design fundamentals"
+      ],
+      "recentInterviewExperiences": [
+        {
+          "studentName": "Ayush K.",
+          "batch": "Batch 2025",
+          "role": "Software Engineer (L3)",
+          "roundDetails": "R1 asked a modified LRU Cache problem with TTL eviction. R2 had a 2D grid graph traversal with obstacles and cost calculation. Kept talking through my thought process throughout.",
+          "tips": "Never jump into writing code before explaining edge cases and getting the interviewer aligned on the brute force and optimal approaches."
+        }
+      ]
+    },
+    {
+      "id": "comp-2",
+      "name": "Microsoft IDC",
+      "logo": "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?auto=format&fit=crop&w=120&q=80",
+      "tier": "Dream (20+ LPA)",
+      "packageLPA": "₹43.0 LPA CTC (Base ₹16.0 LPA + RSUs $35k + Sign-on Bonus)",
+      "eligibleBranches": [
+        "CSE",
+        "IT",
+        "ECE",
+        "EE"
+      ],
+      "hiringRounds": [
+        "Microsoft Codility Online Assessment (3 algorithmic problems)",
+        "Technical Round 1: DSA (Arrays, Linked Lists, Binary Search Trees)",
+        "Technical Round 2: System Architecture & Low Level OOP Design",
+        "Managerial / AA (As Appropriate) Round: Project Deep-dive & Culture fit"
+      ],
+      "prepRoadmapLink": "https://leetcode.com/company/microsoft/",
+      "driveLink": "https://drive.google.com/drive/folders/1exampleMicrosoftPrepDrive",
+      "overview": "Microsoft values robust Object-Oriented Principles, clean reusable code structures, and comprehensive knowledge of Operating Systems & Concurrency.",
+      "importantTopics": [
+        "OOP Design Patterns (Factory, Singleton, Observer)",
+        "Concurrency & Multithreading",
+        "Tree Traversals",
+        "OS & Memory Management"
+      ],
+      "recentInterviewExperiences": [
+        {
+          "studentName": "Priya Mukherjee",
+          "batch": "Batch 2026",
+          "role": "SWE Summer Intern",
+          "roundDetails": "Asked to design an in-memory Parking Lot system with OOP principles in Java/C++, followed by a question on finding LCA in a Binary Tree with parent pointers.",
+          "tips": "Write production-quality code with descriptive variable names and error checking instead of raw competitive programming shortcuts."
+        }
+      ]
+    },
+    {
+      "id": "comp-3",
+      "name": "Oracle Cloud Infrastructure (OCI)",
+      "logo": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=120&q=80",
+      "tier": "Super Dream (12-20 LPA)",
+      "packageLPA": "₹18.0 - 24.0 LPA CTC",
+      "eligibleBranches": [
+        "CSE",
+        "IT",
+        "ECE"
+      ],
+      "hiringRounds": [
+        "Oracle Online Assessment (Aptitude, Core CS MCQs + 2 Coding questions)",
+        "Technical Round 1: Core Database internals, Indexing & SQL queries",
+        "Technical Round 2: OS, Memory allocation, Networks & Data Structures",
+        "HR & Director Round"
+      ],
+      "prepRoadmapLink": "https://www.geeksforgeeks.org/oracle-interview-experience/",
+      "driveLink": "https://drive.google.com/drive/folders/1exampleOracleDrive",
+      "overview": "Oracle heavily tests fundamental Computer Science core subjects: DBMS transaction ACID properties, B+ Trees indexing, OS virtual memory, and distributed primitives.",
+      "importantTopics": [
+        "B+ Trees & Database Indexing",
+        "SQL Queries & Query Optimization",
+        "Deadlocks & Semaphores",
+        "TCP Windowing & Sockets"
+      ],
+      "recentInterviewExperiences": [
+        {
+          "studentName": "Devansh Verma",
+          "batch": "Batch 2025",
+          "role": "Associate Member of Technical Staff",
+          "roundDetails": "Deep dive into how B-Trees maintain balancing on disk storage vs Red-Black Trees in RAM. Asked to write raw SQL for 2nd highest salary with dense_rank().",
+          "tips": "Revise standard CS subjects (DBMS, OS, CN) thoroughly along with standard DSA."
+        }
+      ]
+    },
+    {
+      "id": "comp-4",
+      "name": "Tata Consultancy Services (TCS Digital / Prime)",
+      "logo": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=120&q=80",
+      "tier": "Standard (6-12 LPA)",
+      "packageLPA": "₹7.5 - 9.0 LPA (Prime) / ₹7.0 LPA (Digital)",
+      "eligibleBranches": [
+        "All Engineering Branches"
+      ],
+      "hiringRounds": [
+        "TCS NQT National Qualifier Test (Cognitive + Advanced Coding)",
+        "Technical Interview: Projects, Basics of DSA & Full Stack / Cloud",
+        "MR & HR Interview: Communication, Scenario-based questions"
+      ],
+      "prepRoadmapLink": "https://prepinsta.com/tcs-digital/",
+      "driveLink": "https://drive.google.com/drive/folders/1exampleTCSPrepDrive",
+      "overview": "One of the highest hiring volume tech companies. Great stepping stone with clear tracks for Prime and Digital cadres based on NQT rank.",
+      "importantTopics": [
+        "Quantitative Aptitude & Logic",
+        "Arrays & Strings Manipulations",
+        "Basic OOP Concepts",
+        "Final Year Project Explanation"
+      ],
+      "recentInterviewExperiences": [
+        {
+          "studentName": "Sneha Patil",
+          "batch": "Batch 2025",
+          "role": "Systems Engineer - Digital",
+          "roundDetails": "Questions centered around my college project, REST APIs, Git workflows, and solving an anagram problem in Python.",
+          "tips": "Be very confident in explaining your resume projects from architecture to deployment."
+        }
+      ]
+    }
+  ],
+  "scholarships": [
+    {
+      "id": "sch-1",
+      "title": "Reliance Foundation Undergraduate Scholarship 2026-27",
+      "provider": "Reliance Foundation",
+      "category": "Merit-Based",
+      "amount": "Up to ₹2,00,000 across full degree program",
+      "deadline": "2026-10-15",
+      "eligibleBranches": [
+        "All Engineering Branches (B.Tech / B.E.)"
+      ],
+      "eligibleYears": [
+        "1st Year (Freshers only)"
+      ],
+      "cgpaCriteria": "Min 60% in Class 12th Board Exams",
+      "description": "Prestigious national scholarship awarded to 5,000 meritorious undergraduate students with annual household income under ₹15 Lakhs.",
+      "applicationLink": "https://www.scholarships.reliancefoundation.org/",
+      "officialDriveLink": "https://drive.google.com/drive/folders/1exampleRelianceScholarshipGuidelines",
+      "documentsRequired": [
+        "Class 10th & 12th Marksheets",
+        "College Bonafide Certificate",
+        "Income Certificate",
+        "Aadhar Card",
+        "Bank Passbook copy"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "sch-2",
+      "title": "Adobe India Women-in-Technology Scholarship 2027",
+      "provider": "Adobe Systems India",
+      "category": "Women in STEM",
+      "amount": "$10,000 USD + Direct Summer Internship at Adobe India + Mentorship",
+      "deadline": "2026-09-25",
+      "eligibleBranches": [
+        "CSE",
+        "IT",
+        "ECE",
+        "Data Science",
+        "AI/ML"
+      ],
+      "eligibleYears": [
+        "3rd Year Female Undergraduates"
+      ],
+      "cgpaCriteria": "CGPA 8.0+ or equivalent",
+      "description": "Aimed at empowering female leadership in computer science and tech research. Includes full conference sponsorship to Grace Hopper Celebration India.",
+      "applicationLink": "https://www.adobe.com/careers/university/scholarships.html",
+      "officialDriveLink": "https://drive.google.com/drive/folders/1exampleAdobeWITSamples",
+      "documentsRequired": [
+        "Latest Resume (1 page)",
+        "Academic Transcripts",
+        "3 Essay Questions on Tech Impact",
+        "One Letter of Recommendation"
+      ],
+      "status": "Closing Soon"
+    },
+    {
+      "id": "sch-3",
+      "title": "National Scholarship Portal (NSP) - Post Matric Technical Scheme",
+      "provider": "Ministry of Electronics & IT / Government of India",
+      "category": "Government Schemes",
+      "amount": "Full Tuition Fee Reimbursement + ₹12,000/year maintenance allowance",
+      "deadline": "2026-11-30",
+      "eligibleBranches": [
+        "All Branches"
+      ],
+      "eligibleYears": [
+        "1st Year",
+        "2nd Year",
+        "3rd Year",
+        "4th Year"
+      ],
+      "cgpaCriteria": "Passing grade without active backlogs",
+      "description": "Central sector scheme for technical and higher education students from reserved/minority/EWS backgrounds.",
+      "applicationLink": "https://scholarships.gov.in/",
+      "officialDriveLink": "https://drive.google.com/drive/folders/1exampleNSPGovtGuidelines",
+      "documentsRequired": [
+        "Domicile Certificate",
+        "Caste/Income Certificate",
+        "College Fee Receipt",
+        "Student Verification Form by Institute"
+      ],
+      "status": "Open"
+    },
+    {
+      "id": "sch-4",
+      "title": "Google Generation Scholarship (APAC Region)",
+      "provider": "Google",
+      "category": "Women in STEM",
+      "amount": "$2,500 USD + Google Mentorship Cohort + Networking Summit",
+      "deadline": "2026-12-10",
+      "eligibleBranches": [
+        "Computer Science & related Tech fields"
+      ],
+      "eligibleYears": [
+        "1st Year & 2nd Year Women Students"
+      ],
+      "cgpaCriteria": "Strong academic record with passion for diversity in tech",
+      "description": "Awarded based on the strength of each candidate's commitment to diversity, equity, and inclusion, and demonstrated leadership.",
+      "applicationLink": "https://buildyourfuture.withgoogle.com/scholarships",
+      "officialDriveLink": "https://drive.google.com/drive/folders/1exampleGoogleAPACDocs",
+      "documentsRequired": [
+        "Resume/CV",
+        "Unofficial Transcripts",
+        "Two 400-word Short Essays on Tech & Leadership"
+      ],
+      "status": "Upcoming"
+    }
+  ]
+}
