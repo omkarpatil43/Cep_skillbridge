@@ -1417,7 +1417,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, onSuccess
                   </div>
                 </div>
 
-                {(analysisResult.yearOfStudy >= 3 || isApplyingSenior) && (
+                {(analysisResult.yearOfStudy >= 2 || isApplyingSenior) && (
                   <div style={{
                     padding: '11px 13px',
                     borderRadius: 10,

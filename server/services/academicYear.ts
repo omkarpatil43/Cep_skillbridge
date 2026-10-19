@@ -95,9 +95,9 @@ export const classifyStudent = (
 
   const levelMap: Record<number, { level: StudentLevel; label: string }> = {
     1: { level: 'Fresher', label: '1st Year (Fresher)' },
-    2: { level: 'SecondYear', label: '2nd Year' },
-    3: { level: 'ThirdYear', label: '3rd Year' },
-    4: { level: 'FinalYear', label: 'Final Year (4th Year)' },
+    2: { level: 'SecondYear', label: '2nd Year (senior)' },
+    3: { level: 'ThirdYear', label: '3rd Year (Senior)' },
+    4: { level: 'FinalYear', label: '4th Year (Final Year Senior)' },
   };
 
   const entry = levelMap[yearOfStudy];
@@ -109,11 +109,11 @@ export const classifyStudent = (
     };
   }
 
-  // yearOfStudy > 4
+  // yearOfStudy > 4 (< 2023)
   return {
     yearOfStudy,
     studentLevel: 'Alumni',
-    displayLabel: 'Passed Out Student (Alumni)',
+    displayLabel: 'Alumni/senior',
   };
 };
 

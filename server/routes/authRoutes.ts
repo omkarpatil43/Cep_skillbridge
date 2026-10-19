@@ -364,15 +364,11 @@ authRouter.post(
         ? String(name).trim()
         : analysis.studentName || cleanEmail.split('@')[0].replace(/[._]/g, ' ').toUpperCase();
 
-      // Senior Mentor qualification: Year of study >= 3 (3rd Year or Final Year)
+      // Senior Mentor qualification: Year of study >= 2 (2nd Year, 3rd Year, Final Year, or Alumni/senior) or requestedSenior
       const requestedSenior = req.body.requestedRole === 'senior';
       let userRole: UserRole = 'student';
-      if (yearOfStudy >= 3 || requestedSenior) {
-        if (yearOfStudy >= 3) {
-          userRole = 'senior';
-        } else {
-          userRole = 'student';
-        }
+      if (yearOfStudy >= 2 || requestedSenior) {
+        userRole = 'senior';
       }
 
       // Seniors and students start with Pending verification until admin reviews their ID card

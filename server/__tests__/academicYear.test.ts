@@ -64,19 +64,19 @@ console.log('\n--- 3. Student Year Classification ---');
   const mockNow = new Date('2026-09-15T00:00:00Z');
 
   const fresher = classifyStudent(2026, mockNow);
-  assert(fresher.yearOfStudy === 1 && fresher.studentLevel === 'Fresher', 'Batch starting 2026 classified as Fresher (Year 1)');
+  assert(fresher.yearOfStudy === 1 && fresher.studentLevel === 'Fresher' && fresher.displayLabel === '1st Year (Fresher)', 'Batch 2026-2030: 1st Year (Fresher)');
 
   const sophomore = classifyStudent(2025, mockNow);
-  assert(sophomore.yearOfStudy === 2 && sophomore.studentLevel === 'SecondYear', 'Batch starting 2025 classified as SecondYear (Year 2)');
+  assert(sophomore.yearOfStudy === 2 && sophomore.studentLevel === 'SecondYear' && sophomore.displayLabel === '2nd Year (senior)', 'Batch 2025-2029: 2nd Year (senior)');
 
   const junior = classifyStudent(2024, mockNow);
-  assert(junior.yearOfStudy === 3 && junior.studentLevel === 'ThirdYear', 'Batch starting 2024 classified as ThirdYear (Year 3)');
+  assert(junior.yearOfStudy === 3 && junior.studentLevel === 'ThirdYear' && junior.displayLabel === '3rd Year (Senior)', 'Batch 2024-2028: 3rd Year (Senior)');
 
   const senior = classifyStudent(2023, mockNow);
-  assert(senior.yearOfStudy === 4 && senior.studentLevel === 'FinalYear', 'Batch starting 2023 classified as FinalYear (Year 4)');
+  assert(senior.yearOfStudy === 4 && senior.studentLevel === 'FinalYear' && senior.displayLabel === '4th Year (Final Year Senior)', 'Batch 2023-2027: 4th Year (Final Year Senior)');
 
   const alumni = classifyStudent(2020, mockNow);
-  assert(alumni.yearOfStudy === 7 && alumni.studentLevel === 'Alumni', 'Batch starting 2020 classified as Alumni');
+  assert(alumni.yearOfStudy === 7 && alumni.studentLevel === 'Alumni' && alumni.displayLabel === 'Alumni/senior', '< 2023: Alumni/senior');
 
   const future = classifyStudent(2028, mockNow);
   assert(future.studentLevel === 'Invalid', 'Future-dated batch classified as Invalid');

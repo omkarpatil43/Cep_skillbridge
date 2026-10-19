@@ -75,16 +75,16 @@ export const AdminVerificationPage: React.FC<{ onSuccessToast?: (msg: string) =>
         user.role === 'club_admin'
           ? `Club Admin (${user.clubName || 'PICT'})`
           : user.role === 'senior'
-          ? (finalLevel === 'FinalYear' ? 'Final Year (Senior)' : '3rd Year (Senior)')
+          ? (finalLevel === 'FinalYear' ? '4th Year (Final Year Senior)' : finalLevel === 'ThirdYear' ? '3rd Year (Senior)' : finalLevel === 'SecondYear' ? '2nd Year (senior)' : 'Alumni/senior')
           : finalLevel === 'Fresher'
           ? '1st Year (Fresher)'
           : finalLevel === 'SecondYear'
-          ? '2nd Year'
+          ? '2nd Year (senior)'
           : finalLevel === 'ThirdYear'
           ? '3rd Year (Senior)'
           : finalLevel === 'FinalYear'
-          ? 'Final Year (4th Year)'
-          : 'Passed Out Student (Alumni)';
+          ? '4th Year (Final Year Senior)'
+          : 'Alumni/senior';
 
       await api.adminVerifyUser(authToken, user.id, 'approve', finalLevel, yearLabel);
       if (onSuccessToast) onSuccessToast(user.role === 'club_admin' ? `Approved Club Admin ${user.name} for ${user.clubName || 'club'}!` : `Verified ${user.name} as ${finalLevel}!`);
@@ -671,10 +671,10 @@ export const AdminVerificationPage: React.FC<{ onSuccessToast?: (msg: string) =>
               }}
             >
               <option value="Fresher">1st Year (Fresher)</option>
-              <option value="SecondYear">2nd Year</option>
-              <option value="ThirdYear">3rd Year</option>
-              <option value="FinalYear">Final Year (4th Year)</option>
-              <option value="Alumni">Passed Out Student (Alumni)</option>
+              <option value="SecondYear">2nd Year (senior)</option>
+              <option value="ThirdYear">3rd Year (Senior)</option>
+              <option value="FinalYear">4th Year (Final Year Senior)</option>
+              <option value="Alumni">Alumni/senior</option>
             </select>
           </div>
 

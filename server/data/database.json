@@ -1,6 +1,59 @@
 {
   "users": [
     {
+      "id": "u-1792418117961",
+      "name": "nikhilli",
+      "rollNo": "2223000",
+      "email": "nikhilll@pict.edu",
+      "passwordHash": "$2b$10$lmKieEZF8HXm9yBsPxev4ur9/dB7MXu6G1iFxsl82u2pW8ELe37xe",
+      "branch": "Electronics & Telecommunication",
+      "year": "Alumni/senior",
+      "role": "senior",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "bio": "Alumni/senior | Senior Student Mentor & Scholar @ PICT",
+      "badges": [
+        "Senior Mentor",
+        "3rd Year Senior"
+      ],
+      "reputation": 100,
+      "batchStartYear": 2022,
+      "batchEndYear": 2026,
+      "yearOfStudy": 5,
+      "studentLevel": "Alumni",
+      "verificationStatus": "Pending",
+      "ocrConfidenceScore": 0.3,
+      "idCardImageRef": "4793d4f2-5fa8-4bb0-bae9-1be9d23b8c3b.jpeg"
+    },
+    {
+      "id": "u-1792418009547",
+      "name": "nikhill",
+      "rollNo": "222300",
+      "email": "nikhill@pict.edu",
+      "passwordHash": "$2b$10$IfhiVA7P2cWpW5nynGN5leF/R.AHpZfDtJx0PnfmDp.Q4Ndpsutee",
+      "branch": "Electronics & Telecommunication",
+      "year": "2nd Year (senior)",
+      "role": "senior",
+      "isApproved": true,
+      "adminStatus": "Pending",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "bio": "2nd Year (senior) | Senior Student Mentor & Scholar @ PICT",
+      "badges": [
+        "Senior Mentor",
+        "3rd Year Senior"
+      ],
+      "reputation": 100,
+      "batchStartYear": 2025,
+      "batchEndYear": 2029,
+      "yearOfStudy": 2,
+      "studentLevel": "SecondYear",
+      "verificationStatus": "Verified",
+      "ocrConfidenceScore": 0.95,
+      "idCardImageRef": "11b542f3-93b1-48b5-bdf8-4c5fff0d442d.jpeg",
+      "verifiedAt": "2026-10-19T13:53:37.098Z"
+    },
+    {
       "id": "u-1792322391057",
       "name": "supp",
       "rollNo": "233",
@@ -419,7 +472,8 @@
       "reputation": 999,
       "isApproved": true,
       "adminStatus": "Active",
-      "verificationStatus": "Verified"
+      "verificationStatus": "Verified",
+      "loginAttempts": 1
     }
   ],
   "academicMaterials": [
